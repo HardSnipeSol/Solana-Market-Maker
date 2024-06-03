@@ -47,7 +47,7 @@ The market-making strategy can be customized in `src/strategies/basicMM.ts`. You
 - Keep your Solana wallet keypair file secure and never share it with anyone.
 
 ## CONTACT
-For full version message me on one of the below.
+For full version message me on:
 Telegram: [devsharplabs](https://t.me/devsharplabs)
 Discord: `@devsharplabs` or user id: (782226818441936906)
 
