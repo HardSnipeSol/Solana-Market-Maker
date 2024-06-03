@@ -48,6 +48,6 @@ The market-making strategy can be customized in `src/strategies/basicMM.ts`. You
 
 ## CONTACT
 For full version message me on:
-Telegram: [devsharplabs](https://t.me/devsharplabs)
+Telegram: [devsharplabs](https://t.me/devsharplabs) or
 Discord: `@devsharplabs` or user id: (782226818441936906)
 
